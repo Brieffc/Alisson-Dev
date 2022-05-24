@@ -12,3 +12,15 @@
   color: #fff;
   text-shadow: 4px 4px 0 #000;
 }
+.skills {
+  font-family: "Press Start 2P", sans-serif;
+  font-size: 30px;
+  color: #fff;
+  text-shadow: 4px 4px 0 #000;
+
+}
+.title.-second {
+  color: #fff;
+  text-shadow: none;
+  text-align: center;
+}
